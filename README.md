@@ -33,7 +33,7 @@ O PMI Gaming Project oferece uma experiência educacional única e inovadora, co
 
 💡 PMI I
 
-🔗 url github:
+🔗 url github: https://github.com/Vlanderdahl/pmigamingproject
 
 🛬 url landpage:
 
