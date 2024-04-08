@@ -1,0 +1,140 @@
+/* Fonte */
+@font-face {
+    font-family: 'Honk';
+    src: url('Honk.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+  /* Cores */
+:root {
+    --sun: #e0ab0d;        /* 1st color */
+    --moon: #46494c;       /* 2nd color */
+    --star: #aafff9;       /* 3rd color */
+    --galaxy: #121020;     /* 4th color */
+    --void: #110225;       /* 5th color */
+}
+
+/* Estilos Padrão */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  
+/* Estilo do cabeçalho */
+header {
+    background-color: var(--galaxy);
+    padding: 20px;
+    text-align: center;
+    position: relative;
+}
+
+/* Menu de Navegação */
+nav {
+    display: center;
+    justify-content: center;;
+    float: left;
+    margin-top: 10px;
+}
+  nav a {
+    text-decoration: none;
+    color: var(--star);
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+  nav a:hover {
+    background-color: var(--sun);
+}
+
+/* Estilo geral da página */
+body {
+    font-family: 'Honk', sans-serif;
+    color: auto;
+    background-color: var(--void);
+    margin: auto auto;
+    text-align: justify;
+    zoom: 2;
+}
+
+header h1 {
+    font-size: 2em;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: var(--sun);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+  }
+  
+  header img {
+    max-width: 200px;
+    display: block;
+    margin: 0 auto;
+    background-color: transparent;
+    z-index: 0;
+  }
+  
+  /* Estilo da seção principal */
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  section h2 {
+    font-size: 1.5em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  section p {
+    text-align: justify;
+  }
+  
+  /* Estilo da seção de "Saiba Mais!" */
+  section.SaibaMais {
+    background-color: var(--galaxy);
+    color: #fff;
+    text-align: center;
+  }
+  
+  section.SaibaMais p {
+    margin-bottom: 10px;
+  }
+  
+  section.SaibaMais button {
+    background-color: var(--star);
+    color: var (--sun);
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  section.SaibaMais button:hover {
+    background-color: var(--void);
+  }
+  
+  /* Estilo do rodapé */
+  footer {
+    background-color: var(--galaxy);
+    padding: 10px;
+    text-align: center;
+    color: #fff;
+  }
+  
+  footer p {
+    margin: 10px;
+  }
