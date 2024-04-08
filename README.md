@@ -18,9 +18,12 @@ Engajamento: Através da gamificação, incentiva a participação ativa dos jog
 Acessibilidade: Jogo disponível para smartphones, permitindo que o aprendizado esteja sempre ao alcance dos jogadores.
 
 🧑‍💻👩‍💻 Equipe: 
-Victor Landerdahl Ramos
-Matheus Alberton
-João Pedro Vieira da Cunha Caetano
+Victor Landerdahl Ramos;
+
+Matheus Alberton;
+
+João Pedro Vieira da Cunha Caetano;
+
 Valentina Mesquita Agrello
 
 🛠 Recursos/Tecnologias Utilizados:
