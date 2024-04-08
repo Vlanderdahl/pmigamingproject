@@ -3,14 +3,12 @@ PMI Gaming Project
 -------------------
 
 🙁 Problema: 
-
-O uso excessivo de smartphones por jovens é uma realidade nos dias de hoje.
-As instituições de ensino buscam integrar a tecnologia na educação, mas muitas iniciativas falham em gerar resultados significativos.
-O PMI Gaming Project surge como uma solução inovadora para conquistar a atenção dos jovens e promover o aprendizado através da gamificação.
+- O uso excessivo de smartphones por jovens é uma realidade nos dias de hoje.
+- As instituições de ensino buscam integrar a tecnologia na educação, mas muitas iniciativas falham em gerar resultados significativos.
+- O PMI Gaming Project surge como uma solução inovadora para conquistar a atenção dos jovens e promover o aprendizado através da gamificação.
 
 🙂 Nicho: 
-
-O jogo é direcionado a crianças e jovens que desejam aprender de forma divertida e interativa.
+- O jogo é direcionado a crianças e jovens que desejam aprender de forma divertida e interativa.
 Professores também podem utilizá-lo como ferramenta de ensino, propondo atividades dentro e fora da sala de aula.
 
 🎁 Proposta de Valor: 
@@ -27,10 +25,8 @@ Acessibilidade: Jogo disponível para smartphones, permitindo que o aprendizado 
 - Valentina Mesquita Agrello.
 
 🛠 Recursos/Tecnologias Utilizados:
-
-Para desenvolver o PMI Gaming Project, estamos reunindo uma equipe multidisciplinar com as seguintes habilidades:
 - Desenvolvedores: Responsáveis pela criação da interface do usuário, da lógica do jogo e da integração com plataformas online. 
-- Tecnologias: Pretendemos utilizar tecnologias como Unity, C#, SQL Server e outras ainda não definidas.
+- Tecnologias: Pretende-se utilizar tecnologias como Unity, C#, SQL Server e outras ainda não definidas.
 - Pedagogos: Assessoria na criação de atividades pedagógicas que utilizem o jogo como ferramenta de ensino.
 
 -------------------
