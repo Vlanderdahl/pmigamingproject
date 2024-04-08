@@ -20,7 +20,7 @@ O PMI Gaming Project oferece uma experiência educacional única e inovadora, co
 
 🧑‍💻👩‍💻 Equipe: 
 - Victor Landerdahl Ramos;
-- Matheus Alberton;
+- Matheus de Souza Alberton;
 - João Pedro Vieira da Cunha Caetano;
 - Valentina Mesquita Agrello.
 
