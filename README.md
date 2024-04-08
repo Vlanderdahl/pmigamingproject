@@ -14,9 +14,9 @@ Professores também podem utilizá-lo como ferramenta de ensino, propondo ativid
 🎁 Proposta de Valor: 
 
 O PMI Gaming Project oferece uma experiência educacional única e inovadora, com os seguintes benefícios:
-Educação: Uma maneira divertida e envolvente de aprender.
-Engajamento: Através da gamificação, incentiva a participação ativa dos jogadores, tornando o aprendizado mais dinâmico e interessante.
-Acessibilidade: Jogo disponível para smartphones, permitindo que o aprendizado esteja sempre ao alcance dos jogadores.
+- Educação: Uma maneira divertida e envolvente de aprender.
+- Engajamento: Através da gamificação, incentiva a participação ativa dos jogadores, tornando o aprendizado mais dinâmico e interessante.
+- Acessibilidade: Jogo disponível para smartphones, permitindo que o aprendizado esteja sempre ao alcance dos jogadores.
 
 🧑‍💻👩‍💻 Equipe: 
 - Victor Landerdahl Ramos;
