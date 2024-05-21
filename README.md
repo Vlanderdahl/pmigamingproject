@@ -37,7 +37,7 @@ O PMI Gaming Project oferece uma experiência educacional única e inovadora, co
 
 🛬 url landpage:
 
-🤝 url Modelo Negócio (imagem):
+🤝 url Modelo Negócio (imagem): 
 
 🗓 url Product Backlog:
 
@@ -46,6 +46,8 @@ O PMI Gaming Project oferece uma experiência educacional única e inovadora, co
 📲 PMI II
 
 ⌨ url Protótipo (Figma):
+
+🗓 url Canva Model Bussines: https://www.figma.com/design/NdSBJHu0rbPyPKTz7l1f4D/Untitled?t=jOhaZQolWV00DzKM-1
 
 📝 url Modelagem Sistema:
 
